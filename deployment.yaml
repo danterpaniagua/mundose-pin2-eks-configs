@@ -1,7 +1,7 @@
 apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: eks-mundos-e
+  name: eks-mundos-e-dpl
   namespace: mundos-e-nginx
   labels:
     app: mundose-eks-nginx
